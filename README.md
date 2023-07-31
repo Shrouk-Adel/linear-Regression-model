@@ -10,7 +10,7 @@ Here are some of the advantages of using linear regression:
 - It is a versatile algorithm that can be used to predict a wide variety of continuous values.
 - It is a relatively efficient algorithm that can be trained quickly.
 
-all about lr_model 
+All about lr_model 
 1. cost function
 2. Gradient Desect
 3. linear Regression model (one, multi) feature
